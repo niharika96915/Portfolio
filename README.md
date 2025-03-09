@@ -3,7 +3,7 @@
 Welcome to my portfolio! This website showcases my skills, projects, and experiences.  
 
 ## 🔗 Live Demo  
-Check out my portfolio here: [My Portfolio](https://your-username.github.io/repo-name/)  
+Check out my portfolio here: [My Portfolio](https://niharika96915.github.io/Portfolio/)  
 
 ## 🛠️ Technologies Used  
 - HTML  
